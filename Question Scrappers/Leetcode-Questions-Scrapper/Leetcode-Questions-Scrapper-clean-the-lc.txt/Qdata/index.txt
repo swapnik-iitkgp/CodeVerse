@@ -1,0 +1,3 @@
+2095. Delete the Middle Node of a Linked List
+1509. Minimum Difference Between Largest and Smallest Value in Three Moves
+1419. Minimum Number of Frogs Croaking

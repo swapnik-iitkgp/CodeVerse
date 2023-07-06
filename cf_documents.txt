@@ -1,0 +1,517 @@
+parking lot
+amusement park
+magic, wizardry and wonders
+don't exceed
+multiset
+sweets for everyone!
+new year and social network
+about bacteria
+matryoshkas
+minimum value rectangle
+invariance of tree
+andryusha and socks
+game of credit cards
+removing smallest multiples
+a pile of stones
+dynasty puzzles
+helping hiasat
+mocha and diana (easy version)
+towers
+neat words
+hongcow builds a nation
+tokitsukaze and duel
+ant on the tree
+binary key
+princesses and princes
+circle game
+last minute enhancements
+seasons
+ravioli sort
+side transmutations
+may holidays
+searching rectangles
+diagonal walking
+berland music
+leaving the bar
+complete the graph
+make a power of two
+secure password
+face detection
+hard work
+queue in the train
+prefix-suffix palindrome (easy version)
+good graph
+double strings
+alarm clock
+dividing kingdom
+dima and kicks
+table with letters - 2
+even array
+fish weight
+electrical efficiency
+heaps
+stack sorting
+a+b?
+yet another subarray problem
+good substrings
+ceil divisions
+a game on strings
+months and years
+t-shirts from sponsor
+training camp
+ichihime and triangle
+find divisible
+balanced substring
+jumps
+the child and polygon
+madoka and the best school in russia
+andryusha and nervous barriers
+polycarp and string transformation
+party
+kuroni and antihype
+omkar and medians
+minimums or medians
+flag of berland
+line to cashier
+forced online queries problem
+t-shirts
+the child and binary tree
+restoring password
+game with array
+lucky numbers
+ilya and diplomas
+text messaging
+euler tour
+minimize distance
+fiber shape
+maximal intersection
+cakewalk
+bouncy ball
+hate "a"
+four divisors
+mathematics curriculum
+the good array
+balls game
+equal sums
+hongcow buys a deck of cards
+glad to see you!
+graph cutting
+tokitsukaze and all zero sequence
+inna, dima and song
+gates to another world
+cow program
+rainbow dash, fluttershy and chess coloring
+okabe and banana trees
+serval and toy bricks
+make it connected
+presents in bankopolis
+gas pipeline
+hemose on the tree
+asterisk-minor template
+chtholly's request
+busy robot
+fire
+adam and tree
+serega and fun
+lawnmower
+rewards
+explosions?
+tanya and stairways
+rogue-like game
+parallel universes (hard)
+anti-sudoku
+equal or not equal
+sagheer and crossroads
+tree and array
+olha and igor
+dreamoon loves aa
+bear and bowling 4
+willy-nilly, crack, into release!
+simple skewness
+counting shortcuts
+progress bar
+artem and array
+mark the dust sweeper
+distinguish zero state and plus state without errors
+magical calendar
+complete mirror
+shovels shop
+dice tower
+infinity table
+reverse and swap
+crunching numbers just for you
+lexicography
+maximum strength
+you are given a decimal string...
+guess the k-th zero (easy version)
+maximum and
+friends
+unimodal array
+magical array
+inverse function
+evolution of weasels
+pasha and phone
+parcels
+finding expected value
+mini metro
+guess two numbers
+marlin
+potion brewing class
+animal observation (easy version)
+clockwork bomb
+happy line
+synchrophasotron
+board moves
+card game again
+mike and children
+potions (hard version)
+kirill and the game
+equivalent strings
+mahmoud and ehab and the wrong algorithm
+prime matrix
+triangles
+way too long words
+amity assessment
+tit for tat
+bad boy
+newspaper headline
+the fox and the complete tree traversal
+love rescue
+sagheer, the hausmeister
+reducing fractions
+divisor paths
+winnie-the-pooh and honey
+minimizing the string
+tree constructing
+stringforces
+copium permutation
+complete the mst
+marmots (easy)
+lucky subsequence
+ball
+delete two elements
+bad sequence
+tree coloring
+years
+little dima and equation
+gnomes of might and magic
+lru
+a story of one country (easy)
+timofey and a flat tree
+circular xor reversal
+little pony and sort by shift
+christmas spruce
+graph game
+maximize the remaining string
+new year garland
+exam cheating
+forest fires
+sequence transformation
+dogecoin
+new year santa network
+halve or subtract
+robot factory
+valera and elections
+lesha and array splitting
+product sum
+substring removal
+cubeword
+diverging directions
+dima and staircase
+domino (hard version)
+tree of life (hard)
+bug in code
+robot rapping results report
+interesting sequence
+help berline
+invertation in tournament
+two permutations
+vasya and multisets
+a trance of nightfall
+cardiogram
+high load
+equal frequencies
+asterism (easy version)
+aztec catacombs
+lucky numbers (easy)
+sum and replace
+odd set
+aroma's search
+frodo and pillows
+weight the tree
+div. 7
+great sequence
+antimatter
+double matrix
+connecting vertices
+bingo!
+matrix of differences
+two policemen
+palindromes
+dictionary
+stable groups
+autocompletion
+three bags
+unit array
+three blocks palindrome (easy version)
+post lamps
+delete a segment
+pac-man 2.0
+matrix walk
+fox and travelling
+different rules
+quantum classification - dataset 3
+new year and the tricolore recreation
+equation
+princess and her shadow
+div + mod
+dependency management
+trace
+mind the gap
+maxim and restaurant
+"is the number divisible by 3?" oracle
+strange array
+bersu ball
+candies
+lizard era: beginning
+landmarks
+encryption (easy)
+danil and a part-time job
+between
+trader problem
+random elections
+x-mouse in the campus
+laboratory work
+raffles
+diluc and kaeya
+fibonacci sums
+superior periodic subarrays
+game with strings
+triskaidekaphobia
+tree nesting
+polycarp and sums of subsequences
+vasya and petya's game
+number with the given amount of divisors
+artsem and saunders
+cards for friends
+permutation
+divide and summarize
+the lakes
+inverse genealogy
+jumping ball
+nauuo and pictures (hard version)
+parametric circulation
+spider's web
+little pony and summer sun celebration
+slime and hats
+xor-paths
+polandball and many other balls
+median
+lucky interval
+buy a shovel
+candy bags
+count the trains
+sum of paths
+recover an rbs
+clothes
+paint
+the neutral zone
+crisp string
+zero-sum prefixes
+prime factorization
+the unbearable lightness of weights
+young photographer
+closest equals
+numbers
+restore the array
+covered points count
+good matrix elements
+interactive lowerbound
+infinite inversions
+endless matrix
+count permutations
+chain letter
+inconvenient pairs
+jumping frogs
+odds and ends
+fair playoff
+directing edges
+vicky's delivery service
+relatively prime graph
+space mines
+arithmetic progression
+permutation weight (hard version)
+significant cups
+how many trees?
+sum of digits
+longest strike
+lucky substring
+drazil and his happy friends
+new year tree decorations
+lucky numbers (hard version)
+replace and keep sorted
+new year transportation
+k-string
+reconnaissance
+kids' riddle
+array gcd
+non-alternating deck (easy version)
+escaping on beaveractor
+mike and chocolate thieves
+tea queue
+simple subset
+sereja and suffixes
+fafa and the gates
+domino (easy version)
+stones
+coat of anticubism
+olympiad in programming and sports
+no prime differences
+black cat rush
+waste sorting
+triangles on a rectangle
+text editor
+k-divisible sum
+make it good
+fire again
+conditional mix
+break up
+omkar and baseball
+mateusz and an infinite sequence
+arithmetic operations
+cheaterius's problem
+digits sum
+meeting of old friends
+around the world
+the fair nut and the best path
+equator
+graph coloring
+iahub and permutations
+f1 champions
+frequency problem (hard version)
+firecrackers
+bags with balls
+bear and company
+towers
+illumination
+treasure hunt
+inversion swapsort
+beautiful mirrors with queries
+eating soup
+letter
+hungry student problem
+gifts from grandfather ahmed
+add plus minus sign
+three piles of candies
+allowed letters
+tree folding
+laurenty and shop
+page numbers
+tree or not tree
+numbers box
+vasya and public transport
+replace the numbers
+lightsabers (easy)
+black and white stripe
+kirk and a binary string (easy version)
+letters and question marks
+the big race
+polycarp's new job
+on iteration of one well-known function
+serval and rooted tree
+maximum set
+aquamoon and chess
+box
+388535 (easy version)
+chocolates
+cover points
+the road to berland is paved with good intentions
+tournament countdown
+code for 1
+deputies
+make them equal
+police station
+rhyme
+treasure island
+kitchen utensils
+strange definition
+deletions of two adjacent letters
+array sorting
+jeff and removing periods
+points
+music in car
+white sheet
+the union of k-segments
+ropewalkers
+text editor
+parking lot
+abbreviation
+cubes
+sky full of stars
+a game with numbers
+vanya and field
+cactus not enough
+garden
+treasure
+who needs suffix structures?
+letter
+tree cutting (easy version)
+rock and lever
+optimal reduction
+up the strip
+similar words
+kana and dragon quest game
+ever-hungry krakozyabra
+palindorme
+rectangle puzzle ii
+the two routes
+new year and old property
+event dates
+nit orz!
+olympic games
+dasha and chess
+anton and fairy tale
+colored subgraphs
+binary strings are fun
+many equal substrings
+applejack and storages
+xum
+blue-red permutation
+oppa funcan style remastered
+number game
+aquamoon and time stop (hard version)
+olesya and rodion
+unusual product
+towers
+tokitsukaze and beautiful subsegments
+...dary!
+checkout assistant
+below the diagonal
+ring road
+voltage keepsake
+intercity travelling
+hard way
+burning midnight oil
+binary number
+how many squares?
+avoid rainbow cycles
+lingua romana
+farewell party
+constrained tree
+mystery circuit
+bakery
+the light square
+hq9+
+exams
+reverse it!
+han solo and lazer gun
+woodcutters
+function height
+nauuo and circle
+multi-core processor
+clusterization counting
+lost array
+embassy queue
+gotta catch em' all!
+copy or prefix sum
+magic breeding

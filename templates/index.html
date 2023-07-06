@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CodeVerse</title>
+  <style>
+    /* CSS styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f5f5f5;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .form {
+      margin-bottom: 20px;
+    }
+
+    form {
+      display: flex;
+      align-items: center;
+    }
+
+    input[type="text"] {
+      padding: 10px;
+      width: 600px; /* Adjust the width as needed */
+      font-size: 16px;
+      border-radius: 24px; /* Add rounded border */
+      border: 1px solid #dfe1e5; /* Add border */
+      box-shadow: none; /* Remove box shadow */
+    }
+
+    input[type="submit"] {
+      margin-left: 10px;
+      padding: 10px 20px;
+      background-color: #f2f2f2; /* Change background color */
+      color: #5f6368; /* Change text color */
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 4px; /* Add rounded border */
+    }
+
+    div.results {
+      margin-bottom: 20px;
+      background-color: #fff;
+      border-radius: 8px; /* Add rounded border */
+      padding: 20px;
+      display: flex;
+    }
+
+    div.results-column {
+      flex: 1;
+      padding-right: 20px;
+    }
+
+    div.results-column:first-child {
+      padding-right: 10px;
+    }
+
+    div.results a {
+      display: block;
+      margin-bottom: 10px;
+      color: #1a0dab; /* Change link color */
+      text-decoration: none;
+      font-size: 18px;
+    }
+
+    div.results p {
+      margin: 0;
+      color: #545454; /* Change text color */
+      font-size: 14px;
+    }
+
+    h1 {
+      margin-top: 0;
+      margin-bottom: 0px;
+      font-size: 36px;
+    }
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 15px;
+      font-size: 24px;
+    }
+
+    .buttons {
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #4caf50; /* Change background color */
+      color: white; /* Change text color */
+      border: none;
+      border-radius: 4px; /* Add rounded border */
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    button:not(:last-child) {
+      margin-right: 10px;
+    }
+  </style>
+  <script>
+    // JavaScript functions remain the same
+    function showLeetcodeResults() {
+      document.getElementById("leetcodeResults").style.display = "block";
+      document.getElementById("codeforcesResults").style.display = "none";
+    }
+
+    function showCodeforcesResults() {
+      document.getElementById("leetcodeResults").style.display = "none";
+      document.getElementById("codeforcesResults").style.display = "block";
+    }
+
+    function showAllResults() {
+      document.getElementById("leetcodeResults").style.display = "block";
+      document.getElementById("codeforcesResults").style.display = "block";
+    }
+
+    window.onload = function(){
+      const introText = "Welcome to CodeVerse!";
+      let index = 0;
+      const introElement = document.createElement("h1");
+      introElement.id = "intro-text";
+      introElement.style.fontSize = "36px";
+      introElement.style.fontWeight = "bold";
+      introElement.style.color = "#333";
+      introElement.style.marginTop = "50px";
+      document.querySelector(".container").insertBefore(introElement, document.querySelector(".form"));
+
+      function typeIntro() {
+        const introTextElement = document.getElementById("intro-text");
+        if (index < introText.length) {
+          introTextElement.textContent += introText.charAt(index);
+          index++;
+          setTimeout(typeIntro, 100);
+        }
+      }
+
+      typeIntro();
+    };
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1 id="intro-text"></h1>
+    <div class="form">
+      <form method="POST">
+        {{ form.hidden_tag() }} {{ form.search.label }} {{ form.search() }} {{
+        form.submit() }}
+      </form>
+    </div>
+
+    <div class="buttons">
+      <button onclick="showLeetcodeResults()">Leetcode</button>
+      <button onclick="showCodeforcesResults()">Codeforces</button>
+      <button onclick="showAllResults()">All Platforms</button>
+    </div>
+
+    {% if results %}
+    <div class="results">
+      <div class="results-column" id="leetcodeResults">
+        {% if results["leetcode"] %}
+        <h2>Leetcode Questions</h2>
+        {% for question in results["leetcode"] %}
+        <a href="{{ question['Question Link'] }}">{{ question['Question Link'] }}</a>
+        <p></p>
+        {% endfor %}
+        {% endif %}
+      </div>
+
+      <div class="results-column" id="codeforcesResults">
+        {% if results["codeforces"] %}
+        <h2>Codeforces Questions</h2>
+        {% for question in results["codeforces"] %}
+        <a href="{{ question['Question Link'] }}">{{ question['Question Link'] }}</a>
+        <p></p>
+        {% endfor %}
+        {% endif %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</body>
+</html>

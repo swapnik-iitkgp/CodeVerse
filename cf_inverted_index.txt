@@ -1,0 +1,1644 @@
+parking
+0 446
+lot
+0 446
+amusement
+1
+park
+1
+magic,
+2
+wizardry
+2
+and
+2 6 11 17 21 24 46 58 61 65 66 67 68 70 71 77 81 98 99 102 103 104 113 114 118 123 124 125 127 132 134 140 146 152 165 167 169 169 177 182 195 196 199 201 213 214 219 228 236 239 260 263 265 270 278 285 291 292 294 297 301 304 305 307 335 348 351 359 362 363 367 378 379 385 388 393 407 411 414 415 416 420 422 439 451 458 462 467 471 472 476 481 482 485 506 509
+wonders
+2
+don't
+3
+exceed
+3
+multiset
+4
+sweets
+5
+for
+5 141 174 295 429
+everyone!
+5
+new
+6 205 210 263 349 352 418 467
+year
+6 205 210 263 349 352 467
+social
+6
+network
+6 210
+about
+7
+bacteria
+7
+matryoshkas
+8
+minimum
+9
+value
+9 154
+rectangle
+9 371 465
+invariance
+10
+of
+10 12 14 36 73 95 151 196 198 221 229 247 291 293 313 321 345 366 383 404 419 437 443 449
+tree
+10 22 77 108 113 124 177 184 193 199 221 240 290 349 406 409 409 420 457 499
+andryusha
+11 67
+socks
+11
+game
+12 25 57 79 93 119 164 167 203 288 292 450 462 480
+credit
+12
+cards
+12 95 295
+removing
+13 439
+smallest
+13
+multiples
+13
+a
+14 20 36 57 95 144 198 199 229 257 278 310 371 415 450
+pile
+14
+stones
+14 365
+dynasty
+15
+puzzles
+15
+helping
+16
+hiasat
+16
+mocha
+17
+diana
+17
+(easy
+17 41 145 159 233 255 357 364 415 424 457
+version)
+17 41 145 159 166 220 233 255 301 342 350 357 364 390 415 424 457 481
+towers
+18 394 484
+neat
+19
+words
+19 172 461
+hongcow
+20 95
+builds
+20
+nation
+20
+tokitsukaze
+21 98 485
+duel
+21
+ant
+22
+on
+22 57 108 358 371 419
+the
+22 34 35 40 65 66 77 92 108 133 145 167 169 177 177 179 183 187 204 240 263 269 271 282 293 298 312 317 321 325 363 384 385 385 412 417 427 443 460 466 488 502
+binary
+23 77 415 474 494
+key
+23
+princesses
+24
+princes
+24
+circle
+25 509
+last
+26
+minute
+26
+enhancements
+26
+seasons
+27
+ravioli
+28
+sort
+28 201
+side
+29
+transmutations
+29
+may
+30
+holidays
+30
+searching
+31
+rectangles
+31
+diagonal
+32 488
+walking
+32
+berland
+33 73 427
+music
+33 441
+leaving
+34
+bar
+34 131
+complete
+35 136 177 187
+graph
+35 42 97 203 339 387
+make
+36 105 374 431
+power
+36
+two
+36 156 191 227 248 437 466
+secure
+37
+password
+37 78
+face
+38
+detection
+38
+hard
+39 492
+work
+39 283
+queue
+40 360 513
+in
+40 66 106 222 226 282 367 441
+train
+40
+prefix-suffix
+41
+palindrome
+41 255
+good
+42 55 92 327 374 427
+double
+43 244
+strings
+43 57 168 288 474
+alarm
+44
+clock
+44
+dividing
+45
+kingdom
+45
+dima
+46 99 195 219
+kicks
+46
+table
+47 139
+with
+47 79 288 293 392 398 427 450
+letters
+47 405 416 437
+-
+47 262
+2
+47
+even
+48
+array
+48 79 92 124 132 148 149 214 254 272 325 356 438 512
+fish
+49
+weight
+49 240 342
+electrical
+50
+efficiency
+50
+heaps
+51
+stack
+52
+sorting
+52 370 438
+a+b?
+53
+yet
+54
+another
+54 100
+subarray
+54
+problem
+54 75 280 381 390 401
+substrings
+55 475
+ceil
+56
+divisions
+56
+months
+58
+years
+58 194
+t-shirts
+59 76
+from
+59 402
+sponsor
+59
+training
+60
+camp
+60
+ichihime
+61
+triangle
+61
+find
+62
+divisible
+62 271
+balanced
+63
+substring
+63 216 347
+jumps
+64
+child
+65 77
+polygon
+65
+madoka
+66
+best
+66 385
+school
+66
+russia
+66
+nervous
+67
+barriers
+67
+polycarp
+68 291
+string
+68 183 204 318 415
+transformation
+68 208
+party
+69 498
+kuroni
+70
+antihype
+70
+omkar
+71 378
+medians
+71 72
+minimums
+72
+or
+72 122 211 409 515
+flag
+73
+line
+74 161
+to
+74 96 100 427
+cashier
+74
+forced
+75
+online
+75
+queries
+75 398
+restoring
+78
+lucky
+80 189 235 309 347 350
+numbers
+80 141 156 235 324 350 408 410 412 450
+ilya
+81
+diplomas
+81
+text
+82 372 445
+messaging
+82
+euler
+83
+tour
+83
+minimize
+84
+distance
+84
+fiber
+85
+shape
+85
+maximal
+86
+intersection
+86
+cakewalk
+87
+bouncy
+88
+ball
+88 190 273 300
+hate
+89
+"a"
+89
+four
+90
+divisors
+90 293
+mathematics
+91
+curriculum
+91
+balls
+93 307 392
+equal
+94 122 122 232 431 475
+sums
+94 286 291
+buys
+95
+deck
+95 357
+glad
+96
+see
+96
+you!
+96
+cutting
+97 457
+all
+98
+zero
+98 134 145
+sequence
+98 192 208 224 242 379
+inna,
+99
+song
+99
+gates
+100 363
+world
+100 384
+cow
+101
+program
+101
+rainbow
+102 496
+dash,
+102
+fluttershy
+102
+chess
+102 422 471
+coloring
+102 193 387
+okabe
+103
+banana
+103
+trees
+103
+serval
+104 420
+toy
+104
+bricks
+104
+it
+105 374
+connected
+105
+presents
+106
+bankopolis
+106
+gas
+107
+pipeline
+107
+hemose
+108
+asterisk-minor
+109
+template
+109
+chtholly's
+110
+request
+110
+busy
+111
+robot
+111 212 223
+fire
+112 375
+adam
+113
+serega
+114
+fun
+114 474
+lawnmower
+115
+rewards
+116
+explosions?
+117
+tanya
+118
+stairways
+118
+rogue-like
+119
+parallel
+120
+universes
+120
+(hard)
+120 221
+anti-sudoku
+121
+not
+122 409 452
+sagheer
+123
+crossroads
+123
+olha
+125
+igor
+125
+dreamoon
+126
+loves
+126
+aa
+126
+bear
+127 393
+bowling
+127
+4
+127
+willy-nilly,
+128
+crack,
+128
+into
+128
+release!
+128
+simple
+129 361
+skewness
+129
+counting
+130 511
+shortcuts
+130
+progress
+131
+artem
+132
+mark
+133
+dust
+133
+sweeper
+133
+distinguish
+134
+state
+134 134
+plus
+134 403
+without
+134
+errors
+134
+magical
+135 149
+calendar
+135
+mirror
+136
+shovels
+137
+shop
+137 407
+dice
+138
+tower
+138
+infinity
+139
+reverse
+140 505
+swap
+140
+crunching
+141
+just
+141
+you
+141 144
+lexicography
+142
+maximum
+143 146 421
+strength
+143
+are
+144 474
+given
+144 293
+decimal
+144
+string...
+144
+guess
+145 156
+k-th
+145
+friends
+147 295 348 383
+unimodal
+148
+inverse
+150 299
+function
+150 419 508
+evolution
+151
+weasels
+151
+pasha
+152
+phone
+152
+parcels
+153
+finding
+154
+expected
+154
+mini
+155
+metro
+155
+marlin
+157
+potion
+158
+brewing
+158
+class
+158
+animal
+159
+observation
+159
+clockwork
+160
+bomb
+160
+happy
+161 348
+synchrophasotron
+162
+board
+163
+moves
+163
+card
+164
+again
+164 375
+mike
+165 359
+children
+165
+potions
+166
+(hard
+166 220 301 342 350 390 481
+kirill
+167
+equivalent
+168
+mahmoud
+169
+ehab
+169
+wrong
+169
+algorithm
+169
+prime
+170 320 339 368
+matrix
+170 244 247 259 327 330
+triangles
+171 371
+way
+172 492
+too
+172
+long
+172
+amity
+173
+assessment
+173
+tit
+174
+tat
+174
+bad
+175 192
+boy
+175
+newspaper
+176
+headline
+176
+fox
+177 260
+traversal
+177
+love
+178
+rescue
+178
+sagheer,
+179
+hausmeister
+179
+reducing
+180
+fractions
+180
+divisor
+181
+paths
+181 313
+winnie-the-pooh
+182
+honey
+182
+minimizing
+183
+constructing
+184
+stringforces
+185
+copium
+186
+permutation
+186 296 342 478
+mst
+187
+marmots
+188
+(easy)
+188 198 235 277 413
+subsequence
+189
+delete
+191 257
+elements
+191 327
+little
+195 201 304
+equation
+195 264
+gnomes
+196
+might
+196
+magic
+196 516
+lru
+197
+story
+198
+one
+198 419
+country
+198
+timofey
+199
+flat
+199
+circular
+200
+xor
+200
+reversal
+200
+pony
+201 304
+by
+201 271
+shift
+201
+christmas
+202
+spruce
+202
+maximize
+204
+remaining
+204
+garland
+205
+exam
+206
+cheating
+206
+forest
+207
+fires
+207
+dogecoin
+209
+santa
+210
+halve
+211
+subtract
+211
+factory
+212
+valera
+213
+elections
+213 281
+lesha
+214
+splitting
+214
+product
+215 483
+sum
+215 236 313 345 373 382 515
+removal
+216
+cubeword
+217
+diverging
+218
+directions
+218
+staircase
+219
+domino
+220 364
+life
+221
+bug
+222
+code
+222 429
+rapping
+223
+results
+223
+report
+223
+interesting
+224
+help
+225
+berline
+225
+invertation
+226
+tournament
+226 428
+permutations
+227 331 388
+vasya
+228 292 411
+multisets
+228
+trance
+229
+nightfall
+229
+cardiogram
+230
+high
+231
+load
+231
+frequencies
+232
+asterism
+233
+aztec
+234
+catacombs
+234
+replace
+236 351 412
+odd
+237
+set
+237 421
+aroma's
+238
+search
+238
+frodo
+239
+pillows
+239
+div.
+241
+7
+241
+great
+242
+antimatter
+243
+connecting
+245
+vertices
+245
+bingo!
+246
+differences
+247 368
+policemen
+248
+palindromes
+249
+dictionary
+250
+stable
+251
+groups
+251
+autocompletion
+252
+three
+253 255 404
+bags
+253 311 392
+unit
+254
+blocks
+255
+post
+256
+lamps
+256
+segment
+257
+pac-man
+258
+2.0
+258
+walk
+259
+travelling
+260 491
+different
+261
+rules
+261
+quantum
+262
+classification
+262
+dataset
+262
+3
+262
+tricolore
+263
+recreation
+263
+princess
+265
+her
+265
+shadow
+265
+div
+266
++
+266
+mod
+266
+dependency
+267
+management
+267
+trace
+268
+mind
+269
+gap
+269
+maxim
+270
+restaurant
+270
+"is
+271
+number
+271 293 480 494
+3?"
+271
+oracle
+271
+strange
+272 436
+bersu
+273
+candies
+274 404
+lizard
+275
+era:
+275
+beginning
+275
+landmarks
+276
+encryption
+277
+danil
+278
+part-time
+278
+job
+278 418
+between
+279
+trader
+280
+random
+281
+x-mouse
+282
+campus
+282
+laboratory
+283
+raffles
+284
+diluc
+285
+kaeya
+285
+fibonacci
+286
+superior
+287
+periodic
+287
+subarrays
+287
+triskaidekaphobia
+289
+nesting
+290
+subsequences
+291
+petya's
+292
+amount
+293
+artsem
+294
+saunders
+294
+divide
+297
+summarize
+297
+lakes
+298
+genealogy
+299
+jumping
+300 334
+nauuo
+301 509
+pictures
+301
+parametric
+302
+circulation
+302
+spider's
+303
+web
+303
+summer
+304
+sun
+304
+celebration
+304
+slime
+305
+hats
+305
+xor-paths
+306
+polandball
+307
+many
+307 344 475 495
+other
+307
+median
+308
+interval
+309
+buy
+310
+shovel
+310
+candy
+311
+count
+312 326 331
+trains
+312
+recover
+314
+an
+314 379
+rbs
+314
+clothes
+315
+paint
+316
+neutral
+317
+zone
+317
+crisp
+318
+zero-sum
+319
+prefixes
+319
+factorization
+320
+unbearable
+321
+lightness
+321
+weights
+321
+young
+322
+photographer
+322
+closest
+323
+equals
+323
+restore
+325
+covered
+326
+points
+326 426 440
+interactive
+328
+lowerbound
+328
+infinite
+329 379
+inversions
+329
+endless
+330
+chain
+332
+letter
+332 400 456
+inconvenient
+333
+pairs
+333
+frogs
+334
+odds
+335
+ends
+335
+fair
+336 385
+playoff
+336
+directing
+337
+edges
+337
+vicky's
+338
+delivery
+338
+service
+338
+relatively
+339
+space
+340
+mines
+340
+arithmetic
+341 380
+progression
+341
+significant
+343
+cups
+343
+how
+344 495
+trees?
+344
+digits
+345 382
+longest
+346
+strike
+346
+drazil
+348
+his
+348
+decorations
+349
+keep
+351
+sorted
+351
+transportation
+352
+k-string
+353
+reconnaissance
+354
+kids'
+355
+riddle
+355
+gcd
+356
+non-alternating
+357
+escaping
+358
+beaveractor
+358
+chocolate
+359
+thieves
+359
+tea
+360
+subset
+361
+sereja
+362
+suffixes
+362
+fafa
+363
+coat
+366
+anticubism
+366
+olympiad
+367
+programming
+367
+sports
+367
+no
+368
+black
+369 414
+cat
+369
+rush
+369
+waste
+370
+editor
+372 445
+k-divisible
+373
+conditional
+376
+mix
+376
+break
+377
+up
+377 460
+baseball
+378
+mateusz
+379
+operations
+380
+cheaterius's
+381
+meeting
+383
+old
+383 467
+around
+384
+nut
+385
+path
+385
+equator
+386
+iahub
+388
+f1
+389
+champions
+389
+frequency
+390
+firecrackers
+391
+company
+393
+illumination
+395
+treasure
+396 434 454
+hunt
+396
+inversion
+397
+swapsort
+397
+beautiful
+398 485
+mirrors
+398
+eating
+399
+soup
+399
+hungry
+401
+student
+401
+gifts
+402
+grandfather
+402
+ahmed
+402
+add
+403
+minus
+403
+sign
+403
+piles
+404
+allowed
+405
+folding
+406
+laurenty
+407
+page
+408
+box
+410 423
+public
+411
+transport
+411
+lightsabers
+413
+white
+414 442
+stripe
+414
+kirk
+415
+question
+416
+marks
+416
+big
+417
+race
+417
+polycarp's
+418
+iteration
+419
+well-known
+419
+rooted
+420
+aquamoon
+422 481
+388535
+424
+chocolates
+425
+cover
+426
+road
+427 489
+is
+427
+paved
+427
+intentions
+427
+countdown
+428
+1
+429
+deputies
+430
+them
+431
+police
+432
+station
+432
+rhyme
+433
+island
+434
+kitchen
+435
+utensils
+435
+definition
+436
+deletions
+437
+adjacent
+437
+jeff
+439
+periods
+439
+car
+441
+sheet
+442
+union
+443
+k-segments
+443
+ropewalkers
+444
+abbreviation
+447
+cubes
+448
+sky
+449
+full
+449
+stars
+449
+vanya
+451
+field
+451
+cactus
+452
+enough
+452
+garden
+453
+who
+455
+needs
+455
+suffix
+455
+structures?
+455
+rock
+458
+lever
+458
+optimal
+459
+reduction
+459
+strip
+460
+similar
+461
+kana
+462
+dragon
+462
+quest
+462
+ever-hungry
+463
+krakozyabra
+463
+palindorme
+464
+puzzle
+465
+ii
+465
+routes
+466
+property
+467
+event
+468
+dates
+468
+nit
+469
+orz!
+469
+olympic
+470
+games
+470
+dasha
+471
+anton
+472
+fairy
+472
+tale
+472
+colored
+473
+subgraphs
+473
+applejack
+476
+storages
+476
+xum
+477
+blue-red
+478
+oppa
+479
+funcan
+479
+style
+479
+remastered
+479
+time
+481
+stop
+481
+olesya
+482
+rodion
+482
+unusual
+483
+subsegments
+485
+...dary!
+486
+checkout
+487
+assistant
+487
+below
+488
+ring
+489
+voltage
+490
+keepsake
+490
+intercity
+491
+burning
+493
+midnight
+493
+oil
+493
+squares?
+495
+avoid
+496
+cycles
+496
+lingua
+497
+romana
+497
+farewell
+498
+constrained
+499
+mystery
+500
+circuit
+500
+bakery
+501
+light
+502
+square
+502
+hq9+
+503
+exams
+504
+it!
+505
+han
+506
+solo
+506
+lazer
+506
+gun
+506
+woodcutters
+507
+height
+508
+multi-core
+510
+processor
+510
+clusterization
+511
+lost
+512
+embassy
+513
+gotta
+514
+catch
+514
+em'
+514
+all!
+514
+copy
+515
+prefix
+515
+breeding
+516
